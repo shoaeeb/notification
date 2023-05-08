@@ -111,7 +111,7 @@ body {
 
 @media only screen and (max-width:650px) {
     .container,.attribution {
-        width:365px;
+        width:359px;
     }
     .top-area {
         flex-direction: column;
